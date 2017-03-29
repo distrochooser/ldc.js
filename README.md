@@ -1,1 +1,1 @@
-# Moved towards cmllr/distrochooser.de 
+# Moved towards cmllr/distrochooser
